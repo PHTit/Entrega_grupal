@@ -55,7 +55,7 @@ ROOT_URLCONF = 'Proyect.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['C:/Users/fmdalto/Desktop/Facu/Python/Project1/MVT-1.0/Proyect/templates/'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
